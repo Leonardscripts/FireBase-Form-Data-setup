@@ -6,7 +6,7 @@ const config = {
   databaseURL: "https://contact-3669e.firebaseio.com",
   projectId: "contact-3669e",
   storageBucket: "contact-3669e.appspot.com",
-  messagingSenderId: "131417728521"
+  messagingSenderId: "131417728522"
 };
 firebase.initializeApp(config);
 
